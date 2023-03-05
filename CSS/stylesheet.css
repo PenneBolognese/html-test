@@ -1,0 +1,32 @@
+body {
+    font-family: "Avenir Next";
+}
+  
+ li {
+    list-style: none;
+} 
+
+.header {
+    background-color: #f7f2b4;
+    height: 90px;
+}
+
+.header-logo {
+    font-size: 20px;
+    font-family:"Comic Sans MS";
+    padding: 6px 14px;
+}
+
+.header-list li {
+    font-size: 10px;
+}
+
+.main {
+    background-color: #bdf7f1;
+    height: 600px;
+}
+  
+.footer {
+    background-color: #ceccf3;
+    height: 270px;
+}
